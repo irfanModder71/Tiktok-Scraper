@@ -11,4 +11,7 @@ Country:
 ProfileCaptureUrl:
 LastVideoPost:
 LastVideoLink:
-
+TotalPost-Videos: 
+ItsVerified:
+StatusAccount:
+CreateDate:
