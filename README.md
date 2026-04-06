@@ -1,4 +1,4 @@
-# Tiktok-Scraper
+# TIKTOK SCRAPER MAKE BY IRFAN
 simple scraper libary for tiktok scraping just using name and what the info get? 
 Name:
 DisplayName:
